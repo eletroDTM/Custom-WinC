@@ -1,6 +1,7 @@
 #Requires AutoHotkey v2.0
 #SingleInstance Force
 Persistent
+TraySetIcon("shell32.dll", 91)
 
 ; ==========================================
 ; Configuração de Diretórios Seguros
